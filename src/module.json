@@ -22,7 +22,7 @@
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",
 	"url": "https://github.com/rainy67/weyland",
-	"manifest": "https://github.com/rainy67/weyland/edit/master/src/module.json",
+	"manifest": "https://github.com/rainy67/weyland/releases/download/donwload/module.json",
 	"download": "https://github.com/rainy67/weyland/releases/download/donwload/weyland-master.zip"
 
 }
